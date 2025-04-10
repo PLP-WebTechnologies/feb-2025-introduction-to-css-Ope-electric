@@ -27,3 +27,30 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 Happy Coding! 💻✨
+# 🎨 HTML + CSS Styling Project
+
+This project demonstrates the use of CSS styling by linking an external stylesheet (`style.css`) to an HTML file (`index.html`).
+
+## Features
+
+- ✅ External CSS file
+- ✅ Use of 3+ selectors (class, ID, element)
+- ✅ Custom font and color
+- ✅ Image styling
+- ✅ Proper use of margins, paddings, and borders
+
+## Preview
+
+A sample layout showing header, content section with styled image, and footer.
+
+## How to Run
+
+1. Clone/download the repository.
+2. Open `index.html` in your browser.
+3. You will see all styles applied from `style.css`.
+
+## Author
+
+**Afolabi Yusuf Opeyemi**  
+PLP Web Technologies Feb 2025 Cohort
+
